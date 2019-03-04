@@ -112,7 +112,6 @@ const styles = StyleSheet.create({
     height: null,
     resizeMode: "cover"
   },
-
   largeText: {
     fontSize: 44
   },
