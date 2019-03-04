@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "WeatherAPP",
-    "slug": "weatherApp",
+    "name": "Weatheria",
+    "slug": "Weatheria",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -14,7 +14,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#6571BC"
+      "backgroundColor": "#737EC3"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
